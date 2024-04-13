@@ -1,14 +1,13 @@
 İklim değişikliği ile ilgili discord botu.
 Aşamalar...
-1-Discord botuna logo ve isim geliştirme
-2-Proje dosyası açma
-3-Başlangıç Kodu geliştirme
-4-Token oluşturma
-5-Tokeni bota entegre etme
-6-Komutların geliştirilmesi
-7-Komutların Test Edilmesi
-8-Discord botunun son testlerinin yapılması ve düzeltmeler
-9-Botun Sunumu 
+1-Proje dosyası açma
+2-Başlangıç Kodu geliştirme
+3-Token oluşturma
+4-Tokeni bota entegre etme
+5-Komutların geliştirilmesi
+6-Komutların Test Edilmesi
+7-Discord botunun son testlerinin yapılması ve düzeltmeler
+8-Botun Sunumu 
 
 
 
